@@ -1,6 +1,6 @@
-Nama : Delfian Ruly Havatilla
-Kelas : TI.21.A.1
-Nim : 312110161
+**<p>Nama: Delfian Ruly Havatilla</p>**
+**<p>Kelas: TI.21.A.1</p>**
+**<p>NIM: 312110161</p>**
 
 <h1> Praktikum 4 (Pemrograman Web 2) </h1>
 
